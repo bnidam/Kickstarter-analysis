@@ -36,7 +36,7 @@ The second was in editing the COUNTIFS formulas as I copied them throughout the 
 
 While it is possible to have a successful Kickstarter funding campaign for a theater project during any month of the year, more campaigns have been successful that launched during May, June or July.
 
-The liklihood of success or failure for Kickstarter theater funding campaigns launched in December has been about equal, with roughly the same number of campaigns failing and succeeding to meet their goals.
+The likelihood of success or failure for Kickstarter theater funding campaigns launched in December has been about equal, with roughly the same number of campaigns failing and succeeding to meet their goals.
 
 - What can you conclude about the Outcomes based on Goals?
 
