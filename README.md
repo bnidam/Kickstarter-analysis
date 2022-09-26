@@ -13,7 +13,7 @@ The Kickstarter dataset includes data for a variety of activity categories, such
 Using Excel pivot tables and filters, I used the data for "theaters" to analyze the campaigns based on their launch dates. The launch dates were converted to a standard date format in the dataset, sorted by months, and then counted by the standard outcomes of successful, failed or canceled. 
 
 Using a line chart showing the months of the calendar year, the number of campaigns by outcome are shown by month.  
-![Outcomes Based on Launch Date](https://github.com/bnidam/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date chart](https://github.com/bnidam/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Under the theather category, there are three subcategories or types of projects in the Kickstarter data: musicals, plays and spaces. Also, the funding goals of the campaigns cover amounts between $1.00 to $30 million. 
@@ -21,7 +21,7 @@ Under the theather category, there are three subcategories or types of projects 
 In order to analyze the data based on the funding goal of the campaigns, I sorted the funding goals into ranges of amounts and then counted the number of campaigns by their outcome - successful, failed, or canceled - for each range of funding goal. The counts were then converted to percentages of the total number of projects in that range. 
 
 Using another line chart, the percentage of campaigns with specific outcomes is shown for each funding range group.
-![Outcomes Based on Goals]()
+![Outcomes Based on Goals chart](https://github.com/bnidam/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 I encountered two challenges in preparing the data for analysis. 
