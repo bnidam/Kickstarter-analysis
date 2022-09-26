@@ -13,7 +13,7 @@ The Kickstarter dataset includes data for a variety of activity categories, such
 Using Excel pivot tables and filters, I used the data for "theaters" to analyze the campaigns based on their launch dates. The launch dates were converted to a standard date format in the dataset, sorted by months, and then counted by the standard outcomes of successful, failed or canceled. 
 
 Using a line chart showing the months of the calendar year, the number of campaigns by outcome are shown by month.  
-![Outcomes Based on Launch Date]()
+![Outcomes Based on Launch Date](https://github.com/bnidam/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Under the theather category, there are three subcategories or types of projects in the Kickstarter data: musicals, plays and spaces. Also, the funding goals of the campaigns cover amounts between $1.00 to $30 million. 
